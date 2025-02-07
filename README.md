@@ -1,5 +1,3 @@
-# Indepth_Chains.ipynb
-
 ## Overview
 This notebook demonstrates the use of LangChain Expression Language (LCEL) for chaining runnables in machine learning applications. It provides examples of different types of chains and how to utilize them effectively.
 
